@@ -32,7 +32,7 @@ Este repositorio contiene una extensión del simulador **Turtlesim** de ROS2, di
 1. Clona este repositorio en el *workspace* de ROS2:
    ```bash
    cd ~/ros2_ws/src
-   git clone https://github.com/18mgdev/turtlesim_move_extension_pkg.git
+   git clone https://github.com/18mgdev/turtlesim_move_extension.git
    ```
 
 2. Compila el paquete:
